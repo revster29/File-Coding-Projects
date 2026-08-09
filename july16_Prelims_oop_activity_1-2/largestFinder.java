@@ -1,4 +1,4 @@
-public class largestNumber{
+public class largestFinder{
     public static void main (String [] args){
         int a=29, b=67, c=19;
         int largest;
