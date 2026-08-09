@@ -34,7 +34,6 @@ Used for writing, editing, and testing programs.
 
 - **Object-Oriented Programming**
   - `Create largestNumber.java` – Finds the largest number
-  - `storyBook.java` – A simple storytelling program
   - `totalCalculator.java` – Performs total value calculations
 
 ---
