@@ -29,6 +29,8 @@ Each category contains a list of video games, showing how data can be grouped an
 * A **2D array (multidimensional array)** stores the list of games per category
 * The program uses **nested loops** to display each category and its corresponding games
 
+---
+
 ## ✨ Purpose
 
 This project is a beginner-friendly example for understanding how to organize and display grouped data using multidimensional arrays in Java.
