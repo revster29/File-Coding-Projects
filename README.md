@@ -1,6 +1,9 @@
 # 💻 2ndYear IT Project Repository
 
-This repository showcases my academic journey as an IT student, with a focus on Data Structures, Object-Oriented Programming, and other programming courses. It includes my projects, activities, and coding exercises that demonstrate my continuous learning and skill development.
+This repository represents my academic journey as a Bachelor of Science in Information Technology student. It highlights my work in Data Structures,
+Object-Oriented Programming, and related subjects through hands-on coding projects, exercises, and activities.
+
+Each project reflects my continuous effort to strengthen my programming logic, problem-solving skills, and understanding of core IT concepts.
 ---
 
 ## 🛠️ Tools & Technologies
