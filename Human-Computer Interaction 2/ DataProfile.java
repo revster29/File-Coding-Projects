@@ -28,13 +28,13 @@ public class DataProfile {
 
     public static void showProfile(Profile prof) {
         System.out.println("🐶 🐶 🐶 (Dog person)");
-        System.out.println("🙋Name       : " + prof.name);
-        System.out.println("😃Nickname   : " + prof.nickname);
-        System.out.println("🎂Birthday   : " + prof.birthday);
-        System.out.println("🏠Address    : " + prof.address);
-        System.out.println("🎧Fav Song   : " + prof.favSong);
-        System.out.println("👊Motivation : " + prof.motivation);
-        System.out.println("🫂Support    : " + prof.support);
+        System.out.println("🙋  Name       : " + prof.name);
+        System.out.println("😃  Nickname   : " + prof.nickname);
+        System.out.println("🎂  Birthday   : " + prof.birthday);
+        System.out.println("🏠  Address    : " + prof.address);
+        System.out.println("🎧  Fav Song   : " + prof.favSong);
+        System.out.println("👊  Motivation : " + prof.motivation);
+        System.out.println("🫂  Support    : " + prof.support);
     }
 
     public static void main(String[] args) {
