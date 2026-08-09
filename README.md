@@ -17,6 +17,13 @@ Used for writing, editing, and testing programs.
 
 ## 📂 Project Structure
 
+- **Human-Computer Interaction 2**
+  - `Create DataProfile.java` – Displays user profile information
+
+- **Object-Oriented Programming**
+  - `Create largestNumber.java` – Finds the largest number
+  - `totalCalculator.java` – Performs total value calculations
+
 - **august3_Midterms_dsa-BigONotations**
   - `BigONotations.java` – Demonstrates different Big O time complexities
 
@@ -28,13 +35,6 @@ Used for writing, editing, and testing programs.
 
 - **july17_Prelims_oop-Books**
   - `storyBook.java` – A simple storytelling program using OOP
-
-- **Human-Computer Interaction 2**
-  - `Create DataProfile.java` – Displays user profile information
-
-- **Object-Oriented Programming**
-  - `Create largestNumber.java` – Finds the largest number
-  - `totalCalculator.java` – Performs total value calculations
 
 ---
 
