@@ -1,57 +1,34 @@
-# 🎮 Video Game Categories (Java)
+# 📚 OOP & DSA MIDTERMS: Multidimensional Arrays
 
-This simple Java program demonstrates the use of **arrays**, **multidimensional arrays**, and **nested loops** by organizing video games into different categories.
+This project is a midterm exercise for **Object-Oriented Programming (OOP)** and **Data Structures & Algorithms (DSA)** focusing on the use of **multidimensional arrays in Java**.
 
-It groups games by genre and displays them in a structured format.
-
----
-
-## 📌 About the Program
-
-The program uses:
-
-* A **1D array** to store game categories
-* A **2D array (multidimensional array)** to store lists of games under each category
-* **Nested loops** to display all data
+The program organizes and displays grouped data (video games by category) using structured arrays and nested loops.
 
 ---
 
-## 🕹️ Categories Included
+## 📌 Overview
 
-* MOBA
-* Battle Royale
-* Fighting
-* Racing
+The main goal of this project is to demonstrate how **multidimensional arrays (2D arrays)** work in Java by storing related data in a table-like structure.
 
-Each category contains a list of popular games.
+Each category contains a list of video games, showing how data can be grouped and accessed efficiently.
 
 ---
 
-## 💻 Sample Output
-
-```
-Video Game List
-Category = MOBA
- Game: LOL,  Game: Dota 2,  Game: Mobile Legends,
-Category = Battle Royale
- Game: Call of Duty,  Game: Fortnite,  Game: PUBG,
-Category = Fighting
- Game: Tekken,  Game: Mortal Kombat,  Game: Street Fighter,
-Category = Racing
- Game: Need for Speed,  Game: Gran Turismo,  Game: Asphalt,
-```
-
----
-
-## 🧠 Concepts Used
+## 🧠 Concepts Applied
 
 * Arrays (1D & 2D)
 * Multidimensional Arrays
 * Nested Loops
-* Basic Output Formatting
+* Basic Java Output
 
 ---
 
+## 🎮 Program Description
+
+* A **1D array** stores game categories
+* A **2D array (multidimensional array)** stores the list of games per category
+* The program uses **nested loops** to display each category and its corresponding games
+
 ## ✨ Purpose
 
-This project is a beginner-friendly example for understanding how to organize and display grouped data using **multidimensional arrays in Java**.
+This project is a beginner-friendly example for understanding how to organize and display grouped data using multidimensional arrays in Java.
